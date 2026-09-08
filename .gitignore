@@ -1,0 +1,10 @@
+node_modules/
+dist/
+playwright-report/
+test-results/
+.DS_Store
+*.log
+original-assets/
+*.zip
+tests/screenshots/
+__pycache__/
