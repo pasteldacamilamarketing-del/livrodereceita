@@ -1,0 +1,25 @@
+{
+  "name": "Caderno de Receitas — Pastel da Camila",
+  "short_name": "Caderno Camila",
+  "description": "Livro digital interativo de receitas do Pastel da Camila.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#efe1ca",
+  "theme_color": "#8f1718",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
